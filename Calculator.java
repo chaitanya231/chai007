@@ -38,6 +38,7 @@ public class Calculator {
         int cost = sc.nextInt();
         String str = myobj.getmepen(cost);
         System.out.println(str);
+        System.out.println("changed fucker");
 
     }
 
